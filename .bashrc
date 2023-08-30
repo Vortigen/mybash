@@ -123,6 +123,10 @@ alias freshclam='sudo freshclam'
 alias vi='nvim'
 alias svi='sudo vi'
 alias vis='nvim "+set si"'
+alias poweroff='sudo poweroff'
+alias reboot='sudo reboot'
+alias apt='sudo apt'
+
 
 # Change directory aliases
 alias home='cd ~'
